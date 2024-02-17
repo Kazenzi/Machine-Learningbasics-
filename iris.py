@@ -4,6 +4,8 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # load the CSV file
+df = pd.read_csv('E:\kcauni\Year 4\sem 2\Machine learning\Machine learning basics\Irislec.csv') 
+iris=pd.read_csv('E:\kcauni\Year 4\sem 2\Machine learning\Machine learning basics\Irislec.csv') 
 
 # Display the first 2 rows of the DataFrame
 # print(df.head(2))
